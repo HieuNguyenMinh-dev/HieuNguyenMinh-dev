@@ -78,16 +78,3 @@ Exploring the intersection of software engineering and AI tooling:
 - 🔍 [**gpt-researcher**](https://github.com/HieuNguyenMinh-dev/gpt-researcher) — Autonomous AI research agent
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HieuNguyenMinh-dev&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HieuNguyenMinh-dev&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
----
-
-<p align="center">
-  <i>"Clean code always looks like it was written by someone who cares."</i>
-</p>

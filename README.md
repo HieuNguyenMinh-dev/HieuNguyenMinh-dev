@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Software Engineer · Java / Kotlin Backend · 4+ Years Experience</b><br/>
-  Building scalable microservices & event-driven systems
+  Building scalable microservices & event-driven systems 
 </p>
 
 <p align="center">

@@ -78,3 +78,4 @@ Exploring the intersection of software engineering and AI tooling:
 - 🔍 [**gpt-researcher**](https://github.com/HieuNguyenMinh-dev/gpt-researcher) — Autonomous AI research agent
 
 ---
+

@@ -14,7 +14,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 About Meeee
 
 - 🔭 Currently working as **Software Engineer at Katalon** — building the TestOps & Admin platform
 - ⚡ Specialized in **Java/Kotlin microservices** with Spring Boot, event-driven architecture with Kafka
